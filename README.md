@@ -16,7 +16,7 @@ I’m a passionate Full Stack Developer who enjoys building modern, scalable, an
 💼 Open to opportunities: Full-time roles, freelance projects, and collaborations<br>
 
 ### ✍️ Resume
-👉 https://drive.google.com/file/d/1Zc1OKgVPQoX4De8uDyW-4kuGZ-s35gmo/view?usp=sharing
+👉 https://drive.google.com/file/d/1doE-I3zV0OpeD1ZWySAW_VsLwmN0ktl-/view?usp=drivesdk
 
 ### 🌍 Portfolio
 👉 https://alidev.in
