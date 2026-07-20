@@ -50,7 +50,7 @@ problems through modern full-stack development.
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,js,ts"/></p>
 
 ### Backend
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python"/></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,ruby"/></p>
 
 ### Database
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma"/></p>
